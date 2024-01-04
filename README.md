@@ -7,7 +7,7 @@
 
 * outputs the data of timestamp, latitude, and longitude to a spreadsheet file with .csv format 
 
-* captures the data every hour for three days and write it to a .csv file named iss.csv 
+* captures the data every hour for three days and writes it to a .csv file named iss.csv 
 
 * uses the csv.writer object to write the data to the file
 
